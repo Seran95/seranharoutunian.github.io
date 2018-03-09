@@ -1,6 +1,6 @@
 body {
   background-color: violet;
-  width: 600px;
+  width: 500px;
   margin: auto;
   font-family: arial;
 }
@@ -15,5 +15,6 @@ h1 {
   text-align: center;
   border:
   font-size: 60px;
+  color: white;
 
 }
